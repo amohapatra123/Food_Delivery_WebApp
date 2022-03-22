@@ -1,0 +1,9 @@
+{
+  "name": "Food_Granny",
+  "version": "1.0.0",
+  "description": "Revolution in food delivery",
+  "main": "index.js",
+  "author": "Anshuman Mohapatra <amohapatra2001@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
