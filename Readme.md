@@ -10,11 +10,11 @@ This project should consists of these pages:
 
 3==>The home page (This page is to be made the most attractive and user friendly in a single scrollable page).
 
-<img src="assets/image_1.jpeg" width="380" height="360">
+<img src="assets/image_1.jpeg" width="400" height="260">
 > If we select an item it should list all the restaurant selling this item and their price.
 
 
-<img src="assets/image_2.jpeg" width="380" height="360">
+<img src="assets/image_2.jpeg" width="400" height="260">
 > If the user select any restaurant then it should give the menu of that restaurant with the specific tags(Starters,main course,deserts etc).
 
 
