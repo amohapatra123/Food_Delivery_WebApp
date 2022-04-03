@@ -3,13 +3,19 @@
 As the name suggest we are trying to build a food delivery webapp using reactjs.
 
 This project should consists of these pages:
-1=>Register page for new users
+
+1=>Register page for new users.
+
 2=>Login page for the existing ones.
+
 3=>The home page (This page is to be made the most attractive and user friendly in a single scrollable page).
-<img src="assest\home.fig" width="400" height="360">
-    > If we select an item it should list all the resturant selling this item and their price.
-<img src="assest\home_2.fig" width="400" height="360">
-    > If the user select any resturant the it should give the menu of that resturant with the specific tags(Staters,main course,deserts etc).
+
+<img src="assets/image_1.jpeg" width="400" height="360">
+> If we select an item it should list all the resturant selling this item and their price.
+
+<img src="assets/image_2.jpeg" width="400" height="360">
+> If the user select any resturant the it should give the menu of that resturant with the specific tags(Staters,main course,deserts etc).
+
 4=>The cart page (This page mainly consists of items that the user selected for order).
 
 The students of ITER-SOAU are highly encouraged to contribute.
