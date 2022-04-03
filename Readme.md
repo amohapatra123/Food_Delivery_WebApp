@@ -29,3 +29,4 @@ Anyone can raise issues and get assigned with the same by the mentors.
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-round&logo=Git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-round&logo=github)
   ![REACT](https://img.shields.io/badge/REACT-blue?style=flat-round&logo=REACT&logoColor=white)
+  ![POSTMAN](https://img.shields.io/badge/POSTMAN-red?style=flat-round&logo=POSTMAN&logoColor=white)
