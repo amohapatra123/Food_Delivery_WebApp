@@ -30,3 +30,13 @@ Anyone can raise issues and get assigned with the same by the mentors.
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-round&logo=github)
   ![REACT](https://img.shields.io/badge/REACT-blue?style=flat-round&logo=REACT&logoColor=white)
   ![POSTMAN](https://img.shields.io/badge/POSTMAN-red?style=flat-round&logo=POSTMAN&logoColor=white)
+
+  <h2>Contribution Guidelines</h2>
+  <ul>
+  <li>Before working on any of the issues give a request that you want to work on that issue.</li>
+  <li>After you are assigned with the issue you can work on it.</li>
+  <li>Always make a separate branch of main before making any changes, and always push your changes to the branch you made.</li>
+  <li>After you are done with a issue raise a PR.</li>
+  <li>Your work will be reviwed an will be suggested some changes, after making the changes update in the communication channel that you are done with the work so that we can review it again.</li>
+  <li>Unless you are done with one issue you cannot move to the next one.</li>
+  </ul>
